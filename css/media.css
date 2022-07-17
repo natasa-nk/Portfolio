@@ -1,0 +1,1463 @@
+@media(min-width:1200px) and (max-width:1399px){
+
+    #banner {
+        padding-top: 200px;
+    }
+
+    .banner_typing {
+        font-size: 56px;
+    }
+
+    .content .ban-text {
+        margin-right: 115px;
+        padding-bottom: 15px;
+    }
+
+    .f-text p {
+        margin-right: 0;
+        line-height: 25px;
+    }
+    .resume-button button {
+        padding: 35px 83px;
+    }
+
+   
+
+    .edu-title h4 {
+        font-size: 20px;
+    }
+    .edu-text p {
+        font-size: 17px;
+        margin-right: 0px;
+    }
+    .card-information .ratting {
+        padding: 5px 14px;
+    }
+    .card-text h3 {
+        font-size: 25px;
+        line-height: 13px;
+    }
+    .card-text .date {
+        font-size: 14px;
+    }
+    .card-information p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .card-information .ratting {
+        top: -220%;
+    }
+
+    .card-text::after {
+        top: 210%;
+    }
+
+    .contact-main-f input {
+        padding: 20px 20px;
+    }
+
+    .contact-main-f textarea {
+        padding: 20px 20px;
+    }
+    .pricing-head {
+        margin-right: 0;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .pricing-button button {
+        padding: 30px 84px;
+    }
+    .pricing-time {
+        margin: 0 ;
+        text-align: center;
+    }
+    .contact-main {
+        padding: 60px;
+    }
+    
+    .about-wrapper::after{
+        width: 100%;
+     }
+    
+    .education-wrapper::after{
+        width: 100%;
+     }
+    
+    .feature-wrapper::after{
+        width: 100%;
+     }
+     .portfolio-wrapper::after{
+        width: 100%;
+     }
+     .testimonial-wrapper::after{
+        width: 100%;
+     }
+     .resume-wrapper::after{
+        width: 100%;
+     }
+     .clients-wrapper::after{
+        width: 100%;
+     }
+     .pricing-wrapper::after{
+        width: 100%;
+     }
+     .blog-wrapper::after{
+        width: 100%;
+     }
+     .contact-wrapper::after{
+        width: 100%;
+     }
+     .footer-wrapper::after{
+        width: 100%;
+     }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    #demo{
+        top: 45%;
+        right: 30px !important;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 8px;
+    }
+    
+    .ban-button {
+        margin-left: 0px;
+    }
+    .ban-button .ban-right-btn {
+        font-size: 14px;
+        margin-right: 0;
+        padding: 15px 10px;
+    }
+    span.subtitle {
+        margin-bottom: 30px;
+    }
+    .content h1 {
+        font-size: 45px;
+        line-height: 60px;
+        margin-bottom: 20px;
+    }
+    .banner_typing {
+        font-size: 45px;
+    }
+    .content .ban-text {
+        margin-right: 40px;
+        padding-bottom: 0;
+    }
+    #banner {
+        padding-bottom: 90px;
+        padding-top: 190px;
+    }
+
+    .social-img li img {
+        padding: 5px;
+    }
+
+    .f-text p {
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .progress-charts h6 {
+        font-size: 15px;
+    }
+
+    .portfolio-img .port_overlay h3 {
+        font-size: 20px;
+    }
+    #feature {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .f-text h4 {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .f-text p {
+        margin-right: 0;
+    }
+    #portfolio {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .portfolio-text h4 a {
+        font-size: 18px;
+    }
+    #resume {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .resume-head h2 {
+        padding-bottom: 35px;
+    }
+    .resume-button button {
+        padding: 35px 60px;
+    }
+    .edu-title h4 {
+        font-size: 16px;
+    }
+    .edu-text p {
+        margin-right: 0;
+    }
+    .edu-text p {
+        line-height: 25px;
+    }
+    #testimonial {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .card-information p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .card-description {
+        padding: 10px 40px;
+    }
+    .card-information .ratting {
+        padding: 6px 1px;
+        margin-top: 3px;
+    }
+
+    .contact-main-f input {
+        padding: 20px 15px;
+    }
+
+    .contact-main-f textarea {
+        padding: 20px 20px;
+    }
+
+    .contact-social-icon {
+        margin-top: 50px;
+    }
+    #clients {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+    }
+    .client-r-img img {
+        padding: 20px;
+    }
+    #pricing {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    .pricing-head {
+        margin-right: 0;
+    }
+    .pricing-right {
+        margin-left: 0 !important;
+    }
+    .pricing-button button {
+        padding: 30px 64px;
+    }
+    .recommended {
+        top: 5%;
+    }
+    .pricing-time {
+        margin: 0;
+        text-align: center;
+    }
+    .pricing-head h2 {
+        font-size: 44px;
+    }
+    .blog-text h4 a {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #blog {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+    #contact {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .contact-main-f {
+        margin-bottom: 0;
+    }
+    #footer {
+        padding-top: 70px;
+    }
+    #demo {
+        top: 50%;
+        right: 30px !important;
+    }
+    #submit {
+        padding: 17px 30px;
+        margin-top: 9px;
+    }
+
+    .feature-wrapper::after{
+        width: 100%;
+     }
+     .education-wrapper::after {
+        width: 100%;
+    }
+     .portfolio-wrapper::after{
+        width: 100%;
+     }
+     .testimonial-wrapper::after{
+        width: 100%;
+     }
+     .resume-wrapper::after{
+        width: 100%;
+     }
+     .clients-wrapper::after{
+        width: 100%;
+     }
+     .pricing-wrapper::after{
+        width: 100%;
+     }
+     .blog-wrapper::after{
+        width: 100%;
+     }
+     .about-wrapper::after {
+       width: 100%;
+    }
+     .contact-wrapper::after{
+        width: 100%;
+     }
+     .footer-wrapper::after{
+        width: 100%;
+     }
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .blog-category-list a {
+        font-size: 18px;
+    }
+    #demo{
+        top: 45%;
+        right: 30px !important;
+     }
+    .navbar {
+        background: #212428;;
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 10px 0;
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        background-color: #212428;
+    }
+    
+    #hamburger-menu span {
+        height: 5px;
+    }
+    .ban-button {
+        margin-left: 335px;
+        margin-top: 20px;
+        margin-bottom: 45px;
+    }
+    span.subtitle {
+        margin-bottom: 20px;
+    }
+    .content h1 {
+        font-size: 29px;
+        margin-bottom: 0;
+    }
+    .typing .a {
+        font-size: 40px;
+    }
+    .banner_typing {
+        font-size: 27px;
+    }
+
+    .ban-right-img {
+        margin-top: -75px;
+    }
+    .content .ban-text {
+        font-size: 18px;
+        line-height: 24px;
+        margin-right: 0;
+        padding-bottom: 15px;
+    }
+
+    .about-head h2 {
+        margin-top: 10px;
+    }
+
+    .about-right {
+        margin-left: 40px;
+        margin-top: 60px;
+    }
+
+    .feature-content {
+        padding: 35px 30px 35px 30px;
+    }
+
+    .about-icon {
+        margin-top: -70px;
+    }
+
+    .content .ban-text2 {
+        font-size: 18px;
+        margin-right: 0;
+    }
+    span.subtitle {
+        margin-bottom: 10px;
+    }
+
+    .contact-social-icon.d-flex {
+        margin-top: 35px;
+    }
+
+    .contact-main-f input {
+        padding: 20px 20px;
+    }
+    .contact-main-f textarea {
+        padding: 20px 20px;
+    }
+    .socila-right {
+        margin-top: 50px;
+    }
+    #banner {
+        padding-bottom: 60px;
+        padding-top: 140px;
+    }
+    #banner .ban-right {
+        margin-top: 140px;
+    }
+    .feature-head{
+        text-align: center;
+    }
+    .f-text p {
+        margin-right: 0;
+    }
+    .portfolio-text h4 a {
+        font-size: 20px;
+    }
+    .resume-button button {
+        padding: 35px 30px;
+    }
+
+    .education-head h2 {
+        padding-bottom: 0;
+    }
+
+    .education-main-wrapper {
+        margin-top: 30px;
+    }
+
+    .education-item h3 {
+        line-height: 26px;
+    }
+    .card-text::before {
+        display: none;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .clients-head {
+        text-align: center;
+    }
+    .pricing-head h2 {
+        margin-bottom: 70px;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .pricing-button button {
+        padding: 30px 77px;
+    }
+    .recommended {
+        top: 21%;
+        left: 40%;
+    }
+    .pricing-time {
+        margin: 0;
+        text-align: center;
+    }
+    .contact-main {
+        margin-bottom: 50px;
+    }
+    #footer {
+        padding-top: 50px;
+    }
+    #portfolio {
+        padding-top: 65px;
+        padding-bottom: 70px;
+    }
+    #blog {
+        padding-bottom: 50px
+    }
+    #clients {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    #contact {
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    .card-information .ratting {
+        padding: 5px 10px;
+        left: 77%;
+        top: -20%;
+    }
+
+
+
+    .feature-wrapper::after{
+        width: 80%;
+     }
+     .education-wrapper::after {
+        width: 80%;
+    }
+     .portfolio-wrapper::after{
+        width: 80%;
+     }
+     .testimonial-wrapper::after{
+        width: 80%;
+     }
+     .resume-wrapper::after{
+        width: 80%;
+     }
+     .clients-wrapper::after{
+        width: 80%;
+     }
+     .pricing-wrapper::after{
+        width: 80%;
+     }
+     .blog-wrapper::after{
+        width: 80%;
+     }
+     .about-wrapper::after {
+       width: 80%;
+    }
+     .contact-wrapper::after{
+        width: 80%;
+     }
+     .footer-wrapper::after{
+        width: 80%;
+     }
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .progress-charts h6 {
+        margin-bottom: 16px;
+    }
+    #demo{
+        top: 45%;
+        right: 30px !important;
+     }
+    .navbar {
+        background: #212428;;
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+        font-size: 16px;
+    }
+    .navbar-expand-lg .navbar-nav {
+        background-color: #212428;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    #hamburger-menu {
+        margin: 15px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    #hamburger-menu {
+        margin: 0px;
+    }
+    #hamburger-menu span {
+        height: 5px;
+    }
+    #banner {
+        padding-top: 120px;
+    }
+
+    .content h1 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+
+    .ban-button {
+        margin-left: 230px;
+        margin-top: 20px;
+    }
+    .socila-right span.subtitle {
+        margin-top: 30px;
+    }
+    .socila-right span.subtitle {
+        margin-top: 8px;
+    }
+    .socila-right span.subtitle {
+        font-size: 20px;
+    }
+    .typing .a{
+        font-size: 50px;
+    }
+    .banner_typing{
+        font-size: 43px;
+    }
+    .content .ban-text {
+        font-size: 18px;
+        line-height: 25px;
+        margin-right: 0;
+        padding-bottom: 15px;
+    }
+
+    .content .ban-text2 {
+        font-size: 18px;
+        margin-right: 191px; 
+    }
+
+    .socila-left {
+        margin-bottom: 80px;
+    }
+
+    span.subtitle {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .social-img {
+        margin-bottom: 40px;
+    }
+    .card-text::before {
+        display: none;
+    }
+    .card-text::after {
+        top: 145%;
+    }
+    #about {
+        padding-top: 30px;
+    }
+
+    .about-right {
+        margin-left: 35px;
+    }
+
+    .about-content p {
+        margin-top: 50px;
+    }
+
+    .social-img li img {
+        padding: 10px;
+    }
+
+    #feature {
+        padding-top: 40px;
+    }
+
+    #resume {
+        padding-top: 0px;
+    }
+
+    #education {
+        padding-top: 10px;
+    }
+
+    .education-main-wrapper {
+        margin-top: 0;
+    }
+
+    .education-item h3 {
+        line-height: 25px;
+        padding: 0 10px;
+    }
+
+    .blog-category-list a {
+        font-size: 18px;
+    }
+
+    .contact-social-icon{
+        margin-top: 50px;
+    }
+
+    .contact-main-f label {
+        font-size: 15px;
+    }
+
+    .contact-main-f input {
+        padding: 20px 30px;
+    }
+
+    .contact-main-f textarea {
+        padding: 20px 30px;
+    }
+
+    #portfolio {
+        padding-top: 0px;
+    }
+
+    #testimonial {
+        padding-top: 0px;
+    }
+
+    .quote-img img {
+        display: none;
+    }
+
+    .button {
+        display: none;
+    }
+
+
+    .clients-head span.subtitle {
+        text-align: center;
+    }
+    .clients-head h2 {
+        font-size: 55px;
+        padding-bottom: 0px;
+    }
+    .clients-left-wrapp {
+        margin-bottom: 50px;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+    }
+    #clients {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .card-info {
+        margin-right: -55px;
+        padding: 30px 15px 40px 15px;
+    }
+
+    .card-description {
+        margin-top: 40px;
+        margin-right: -55px;
+    }
+
+    .blog-head h2 {
+        font-size: 55px;
+    }
+    #pricing {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pricing-head h2 {
+        margin-bottom: 60px;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .pricing-button button {
+        padding: 25px 47px;
+    }
+    .recommended {
+        top: 212px;
+        left: 36%;
+    }
+    .pricing-left h2 {
+        font-size: 22px;
+    }
+    .pricing-right-d p {
+        font-size: 20px;
+    }
+    .pricing-header {
+        margin-bottom: 30px;
+    }
+    .pricing-body p {
+        font-size: 18px;
+        padding-right: 30px;
+        margin-bottom: 35px;
+    }
+    .pricing-t .check p {
+        font-size: 15px;
+    }
+    .pricing-time {
+        margin: 0;
+    }
+    #blog {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #contact {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .contact-head h2 {
+        font-size: 55px;
+        padding-bottom: 0px;
+    }
+    .description p {
+        margin-right: 60px;
+    }
+
+    .con-tact span a::after {
+        bottom: 2px !important;
+    }
+    #footer {
+        padding-top: 40px;
+    }
+    .contact-main {
+        margin-bottom: 50px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    .card-text h3 {
+        font-size: 25px;
+    }
+
+
+
+
+    .feature-wrapper::after{
+        width: 80%;
+     }
+     .portfolio-wrapper::after{
+        width: 80%;
+     }
+     .testimonial-wrapper::after{
+        width: 80%;
+     }
+     .resume-wrapper::after{
+        width: 80%;
+     }
+     .clients-wrapper::after{
+        width: 80%;
+     }
+     .pricing-wrapper::after{
+        width: 80%;
+     }
+     .blog-wrapper::after{
+        width: 80%;
+     }
+     .contact-wrapper::after{
+        width: 80%;
+     }
+     .footer-wrapper::after{
+        width: 80%;
+     }
+
+
+     .card-information .ratting {
+        display: none;
+    }
+    .about-wrapper::after {
+        display: none;
+    }
+    .feature-wrapper::after{
+       display: none;
+    }
+    .portfolio-wrapper::after{
+       display: none;
+    }
+    .testimonial-wrapper::after{
+        display: none;
+    }
+    .resume-wrapper::after{
+        display: none;
+    }
+    .clients-wrapper::after{
+        display: none;
+    }
+    .pricing-wrapper::after{
+        display: none;
+    }
+    .blog-wrapper::after{
+        display: none;
+    }
+    .contact-wrapper::after{
+        display: none;
+    }
+    .education-wrapper::after {
+        display: none;
+    }
+    .footer-wrapper::after{
+        display: none;
+    }
+    .copy-right p span:hover:after{
+        width: 100% !important;
+    }
+    .top-up-button i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 16px;
+    }
+    .navbar-toggler {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:575.99px) {
+    .navbar {
+        background-color: #212428;
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav {
+        background-color: #212428;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+    #hamburger-menu {
+        margin: 15px;
+    }
+    
+    .ban-button {
+        display: none;
+    }
+    #banner {
+        padding-top: 130px;
+        padding-bottom: 100px;
+    }
+    span.subtitle {
+        margin-bottom: 0;
+    }
+    .content h1 {
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    .typing .a{
+        font-size: 30px;
+    }
+    .banner_typing{
+        font-size: 24px;
+    }
+    .content .ban-text {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0;
+        padding-bottom: 0;
+    }
+    .content .ban-text2 {
+        line-height: 20px;
+        margin-right: 0;
+        padding-bottom: 0;
+    }
+
+    .socila-right span.subtitle {
+        margin-top: 40px;
+    }
+
+    .social-img {
+        margin-bottom: 40px;
+    }
+
+    .ban-right-img {
+        margin-top: 80px;
+    }
+    
+    .about-head h2 {
+        font-size: 50px;
+        margin-top: 8px;
+    }
+
+    .about-right {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .social-img li {
+        margin-right: 10px;
+    }
+
+    .social-img li img {
+        padding: 5px;
+    }
+
+    .about-content p {
+        line-height: 25px;
+    }
+
+    .about-btn a {
+        font-size: 14px;
+    }
+    #about {
+        padding-bottom: 40px;
+        padding-top: 0;
+    }
+
+    #feature {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    span.subtitle {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    .feature-head h2 {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+
+    .feature-content {
+        padding: 35px 15px 35px 15px;
+    }
+
+    .icon a i {
+        margin-bottom: 10px;
+    }
+
+    .f-text h4 {
+        font-size: 21px;
+    }
+
+    .f-text p {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0px;
+    }
+
+    #portfolio {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    .portfolio-head h2 {
+        font-size: 40px;
+        padding-bottom: 0;
+    }
+    
+
+    .mh-professional-progress li {
+        display: block;
+    }
+
+    .feature-item {
+        padding-top: 90px;
+    }
+    
+    #resume {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .resume-head h2 {
+        font-size: 48px;
+    }
+    .resume-button button {
+        margin-bottom: 30px;
+        padding: 21px 59px;
+        font-size: 14px;
+        margin-left: 30px;
+    }
+
+    #education {
+        padding-bottom: 80px;
+    }
+
+    .education-head h2 {
+        font-size: 48px;
+        padding-bottom: 0;
+    }
+
+    .education-item {
+        padding: 30px 20px;
+    }
+
+    .education-item h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .education-item h3 a {
+        font-size: 19px;
+        line-height: 20px;
+    }
+
+    .edu-content .subtitle {
+        text-align: center;
+    }
+    .edu-content h4 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .date span {
+        display: none;
+    }
+    .edu-title h4 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .portfolio-text h4 a {
+        font-size: 15px;
+    }
+
+    .portfolio-img .port_overlay h3 {
+        font-size: 21px;
+    }
+
+    .edu-text p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-right: 0;
+    }
+
+    .progress-content .subtitle {
+        text-align: center;
+    }
+
+    .progress-content h4 {
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .education-main-wrapper {
+        margin-top: 30px;
+    }
+
+    .slick-dots {
+        margin-left: -60px;
+    }
+
+    .progress-charts {
+        padding-bottom: 20px;
+    }
+
+    #testimonial {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .testimonial-head h2 {
+        font-size: 45px;
+        padding-bottom: 0px;
+    }
+
+    .testimonial-content {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+
+
+    .card-content .subtitle {
+        margin-bottom: 0px;
+    }
+    .card-content h3 {
+        font-size: 16px;
+        margin-bottom: 0px;
+        line-height: 22px;
+    }
+    .card-content .dwntitle {
+        margin-bottom: 0px;
+    }
+    .card-info {
+        margin: 0 auto;
+        padding: 20px 10px 10px 10px;
+    }
+    .quote-img img {
+        display: none;
+    }
+    .test-top {
+        display: none;
+    }
+    .card-text::before {
+        display: none;
+    }
+    .card-description {
+        margin-top: 30px;
+        padding: 15px;
+    }
+    .card-text h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .card-text .date {
+        font-size: 14px;
+        line-height: 0px;
+        margin-bottom: 0px;
+    }
+    .card-information p {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 20px;
+    }
+    .card-text::after {
+        display: none;
+    }
+    #clients {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .clients-head span.subtitle {
+        text-align: center;
+    }
+    .clients-head h2 {
+        font-size: 32px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .clients-left-wrapp ul li {
+        font-size: 18px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+    .clients-left-wrapp {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+    }
+    #pricing {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pricing-head {
+        margin-right: 0;
+    }
+    .pricing-head h2 {
+        font-size: 44px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .recommended {
+        display: none;
+    }
+    .pricing-button button {
+        padding: 30px 100px;
+    }
+    .pricing-right-d p {
+        display: none;
+    }
+    .pricing-content {
+        padding: 0 10px 10px 10px;
+    }
+    .pricing-left h2 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .pricing-body p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .pricing-t .check p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .pricing-time {
+        margin: 0 ;
+        margin-top: 30px;
+        text-align: center;
+    }
+    #pricing {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #blog {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+    .blog-img .blog_overlay a {
+        font-size: 18px;
+    }
+    .blog-img .blog_overlay i {
+        font-size: 18px;
+    }
+    .blog-head h2 {
+        font-size: 35px;
+        padding-bottom: 0;
+        line-height: 40px;
+    }
+    .blog-text h4 a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #contact {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .contact-head h2 {
+        font-size: 33px;
+        padding-bottom: 0px;
+    }
+    .contact-category-list h4 {
+        font-size: 26px;
+        line-height: 25px;
+    }
+    .description p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-right: 0;
+    }
+    .con-tact span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .con-tact span a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #contact {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .contact-socila .subtitle {
+        margin-bottom: 40px;
+    }
+
+    .contact-main-form {
+        margin-top: 80px;
+    }
+
+    #footer {
+        padding-top: 50px;
+    }
+    .copy-right p {
+        font-size: 17px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    .about-wrapper::after {
+        display: none;
+    }
+    .feature-wrapper::after{
+       display: none;
+    }
+    .portfolio-wrapper::after{
+       display: none;
+    }
+    .testimonial-wrapper::after{
+        display: none;
+    }
+    .resume-wrapper::after{
+        display: none;
+    }
+    .clients-wrapper::after{
+        display: none;
+    }
+    .pricing-wrapper::after{
+        display: none;
+    }
+    .blog-wrapper::after{
+        display: none;
+    }
+    .contact-wrapper::after{
+        display: none;
+    }
+    .education-wrapper::after {
+        display: none;
+    }
+    .footer-wrapper::after{
+        display: none;
+    }
+    .copy-right p span:hover:after{
+        width: 100% !important;
+    }
+    .top-up-button i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 16px;
+    }
+    #demo {
+        display: none;
+    }
+}
+
+@media (min-width:500px) and (max-width:575.99px){
+    .banner_typing{
+        font-size: 40px;
+    }
+    .card-information .ratting {
+        top: 40%;
+        display: none;
+    }
+    #demo {
+        display: none;
+    }
+}
+
+@media (min-width:400px) and (max-width:575.99px){
+    .content h1 {
+        font-size: 33px;
+    }
+    .typing .a{
+        font-size: 35px;
+    }
+    .banner_typing{
+        font-size: 30px;
+    }
+    .content .ban-text {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0;
+        padding-bottom: 40px;
+    }
+    span.subtitle {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .progress-content h4 {
+        margin-top: 80px;
+    }
+
+    #education {
+        padding-top: 60px;
+    }
+
+    #portfolio {
+        padding-top: 0px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    #demo {
+        display: none;
+    }
+}
